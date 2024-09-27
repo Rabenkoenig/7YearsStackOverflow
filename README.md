@@ -5,7 +5,7 @@ this Project is about a datascience project which analyzes the StackOverflow sur
 
 1. Do developers who frequently visit Stack Overflow report higher job satisfaction?
 2. How does the usage of AI tools correlate with developers' concerns about AI's ethical implications and potential threats?
-3. How do education levels influence developers' ability to self-learn new technologies?
+3. What is the relationship between years of professional coding experience and total compensation across different countries?
 
 To answer these questions we will follow the CRISP-DM-Process. which contains of the following steps:
 - Business Understanding
