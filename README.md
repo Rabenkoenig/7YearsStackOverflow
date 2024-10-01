@@ -4,7 +4,7 @@
 this Project is about a datascience project which analyzes the StackOverflow surveys over the last 7 years (2024-2017). Therefore the goal of this Project is to analyze the follwing 3 main questions:
 
 1. Do developers who frequently visit Stack Overflow report higher job satisfaction?
-2. How does the usage of AI tools correlate with developers' concerns about AI's ethical implications and potential threats?
+2. How does the usage of AI tools correlate with developers' concerns about AI'spotential threats?
 3. What is the relationship between years of professional coding experience and total compensation across different countries?
 
 To answer these questions we will follow the CRISP-DM-Process. which contains of the following steps:
